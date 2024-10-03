@@ -1,0 +1,42 @@
+[33mcommit d1319dc589dfe5331d297ea7fd1e30d7039cab61[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Alptuğ Yılmaz <alptug.yilmaz@outlook.com>
+Date:   Fri Oct 4 02:20:44 2024 +0300
+
+    Update README.md
+
+[33mcommit 64cee5a7cb9d4167d503775d489a58a74209a846[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 7668811 352cd1b
+Author: KTrordu <alptug.yilmaz@outlook.com>
+Date:   Thu Oct 3 11:35:05 2024 +0300
+
+    merged with myproject-images after fixing conflicts
+
+[33mcommit 352cd1b2fa45fa09ddb74d43efa86baea2a0d7ea[m
+Author: KTrordu <alptug.yilmaz@outlook.com>
+Date:   Thu Oct 3 11:30:38 2024 +0300
+
+    added new image
+
+[33mcommit 7668811030a0488b76f4b3404d7bc6a43e5f5ab5[m
+Author: KTrordu <alptug.yilmaz@outlook.com>
+Date:   Thu Oct 3 11:24:21 2024 +0300
+
+    updated index.html with emergency fix
+
+[33mcommit c59af9e8a65d24e23933b4a567d27f2a18ee8229[m
+Author: KTrordu <alptug.yilmaz@outlook.com>
+Date:   Thu Oct 3 11:19:11 2024 +0300
+
+    added image to myproject
+
+[33mcommit a64b1629e0ccd70ae6f8dc133d809a1e54179f76[m
+Author: KTrordu <alptug.yilmaz@outlook.com>
+Date:   Thu Oct 3 11:06:18 2024 +0300
+
+    updated index.html with a new line
+
+[33mcommit 1903363a8d979edf3e2be3d8175ac6b380dc225c[m
+Author: KTrordu <alptug.yilmaz@outlook.com>
+Date:   Thu Oct 3 11:03:28 2024 +0300
+
+    First release of myproject
